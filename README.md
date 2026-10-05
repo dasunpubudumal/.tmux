@@ -2,6 +2,8 @@
 
 Personal tmux configuration with a [Catppuccin Mocha](https://github.com/catppuccin/tmux) theme and a transparent status bar.
 
+![Preview](scrn.png)
+
 ## Plugins
 
 Plugins are cloned manually into `~/.tmux/plugins/` (not managed by tpm) and loaded via `run` statements at the bottom of `tmux.conf`.
